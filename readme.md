@@ -7,3 +7,5 @@
 getapi函数为 根据 酒店id获取对应的返回结果并写入文件
 ReadAllFileAndGetComment 函数则是读取返回结果文件并提取出评论数据
 datastruct 为 返回的结果的json数据格式 用于解析数据
+
+# 当前文件包含了一些已获得的数据
